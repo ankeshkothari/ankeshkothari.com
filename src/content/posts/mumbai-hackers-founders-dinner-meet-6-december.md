@@ -5,7 +5,7 @@ date: "2010-11-29"
 
 Am organizing a dinner meet for Mumbai based hackers and founders.
 
--   If you love (http://news.ycombinator.com/) - you should come.
+-   If you love [news.ycombinator.com](http://news.ycombinator.com/) - you should come.
 -   If you have started your own startup you should come.
 -   If you have a cool side project and want to scale it up, you should come.
 
@@ -15,6 +15,6 @@ Am organizing a dinner meet for Mumbai based hackers and founders.
 
 **Time:** 7pm (Please don't come fashionably late. This is a small get together. Not an event.)
 
-**Venue:** (http://mumbai.burrp.com/listing/sheesha_bandra-w_mumbai_restaurants/1302079__MA##listing "Sheesha Restaurant") Roof Top, Shopper's Stop, Linking Road, Bandra (W) Mumbai, India Phone: 022-66770555
+**Venue:** [Sheesha Restaurant](http://mumbai.burrp.com/listing/sheesha_bandra-w_mumbai_restaurants/1302079__MA##listing) Roof Top, Shopper's Stop, Linking Road, Bandra (W) Mumbai, India Phone: 022-66770555
 
-**RSVP** (http://www.facebook.com/event.php?eid=156845434358162&ref=mf "Mumbai Hackers & Founders Meet - RSVP") so that we have an accurate head count and can do reservations accordingly.
+**RSVP** [Mumbai Hackers & Founders Meet - RSVP](http://www.facebook.com/event.php?eid=156845434358162&ref=mf) so that we have an accurate head count and can do reservations accordingly.

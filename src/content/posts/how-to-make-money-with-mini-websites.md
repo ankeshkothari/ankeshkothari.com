@@ -37,7 +37,7 @@ So one day, I sat down and created a mind map of the easiest way to make money o
 3.  Create and find more related products and sell them to the subscribers through the newsletter
 4.  Promote your newsletter. Don't even think of promoting the products that make you money. Promote the newsletter and let the newsletter promote your other products.
 
-To read the complete nitty-gritty details of the mini website map, check out (http://www.nethotsheet.com/)
+To read the complete nitty-gritty details of the mini website map, check out [nethotsheet.com](http://www.nethotsheet.com/)
 
 I followed the mind map and made quite a lot of websites. Some of which became moderately successful and made me a chunk of money.
 
@@ -55,4 +55,4 @@ I followed the mind map and made quite a lot of websites. Some of which became m
 > 
 > That report deconstructs various successful models of making money and lays out their core in 2 short words.? That is report is for sale at a very modest price. If you're interested in becoming successful online, do check it out: [2WordStrategy.com](http://www.2wordstrategy.com "Internet Marketing Strategy Report")
 
-**Chapter 5:** (../how-luck-and-timing-can-make-or-break-you/)
+**Chapter 5:** [How Luck And Timing Can Make Or Break You](/how-luck-and-timing-can-make-or-break-you/)

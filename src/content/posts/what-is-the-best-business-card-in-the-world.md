@@ -37,9 +37,9 @@ Marketing Hotsheet has been the best business card I could have!
 
 Would you like to see what these Marketing Hotsheets looked like?
 
--   (/marketinghotsheet1.pdf)
--   (/marketinghotsheet2.pdf)
--   (/marketinghotsheet3.pdf)
+-   [Marketing Hotsheet 1](/marketinghotsheet1.pdf)
+-   [Marketing Hotsheet 2](/marketinghotsheet2.pdf)
+-   [Marketing Hotsheet 3](/marketinghotsheet3.pdf)
 
 ## **Action Summary:**
 
@@ -47,4 +47,4 @@ Would you like to see what these Marketing Hotsheets looked like?
 
 -   Fire your bad clients. And only work with the best clients. Because when your clients succeed, your popularity will grow too.
 
-**Chapter 3:** (../how-to-get-smart-people-to-send-you-cool-goodies-for-free/)
+**Chapter 3:** [How To Get Smart People To Send You Cool Goodies For Free](/how-to-get-smart-people-to-send-you-cool-goodies-for-free/)

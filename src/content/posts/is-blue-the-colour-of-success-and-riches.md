@@ -3,7 +3,7 @@ title: "Is Blue The Colour of Success And Riches?"
 date: "2009-10-04"
 ---
 
-(http://timesofindia.indiatimes.com/life-style/fashion/trends/Paint-your-house-blue-for-success/articleshow/5076914.cms "Colour Success Survey"): Sandtex Paints surveyed 3,000 households in UK. They check the colour of the homes. And then ask questions about how successful that household is. The survey results?
+[Colour Success Survey](http://timesofindia.indiatimes.com/life-style/fashion/trends/Paint-your-house-blue-for-success/articleshow/5076914.cms): Sandtex Paints surveyed 3,000 households in UK. They check the colour of the homes. And then ask questions about how successful that household is. The survey results?
 
 **Colour = Household income on average**
 

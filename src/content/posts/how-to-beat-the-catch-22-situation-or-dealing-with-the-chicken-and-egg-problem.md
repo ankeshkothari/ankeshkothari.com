@@ -23,11 +23,11 @@ You have to row your own boat to where you can escape the situation.
 
 ## 3.Real Life Case Study
 
-Steve Samartino starts (http://Rentoid.com). He is faced with a catch-22 situation. Customers won't visit his site if there are no products listed there for rent. And people won't list products for rent if there are no customers on the site.
+Steve Samartino starts [Rentoid.com](http://Rentoid.com). He is faced with a catch-22 situation. Customers won't visit his site if there are no products listed there for rent. And people won't list products for rent if there are no customers on the site.
 
 How to break this vicious circle
 
-Steve rows his own boat quitely but diligently. From his must-read post "(http://startupblog.wordpress.com/2009/09/04/inventing-demand/)"
+Steve rows his own boat quitely but diligently. From his must-read post "[startupblog.wordpress.com](http://startupblog.wordpress.com/2009/09/04/inventing-demand/)"
 
 > _I went out and got myself a copy of the Harvey Norman and all the major department store catalogs. Scan through and them and picked off what items I thought would be suitable to rent. For the purposes of rentoid that meant items that were "hot" in market (their placement in the catalogue was proof enough of that), items which had a purchase value of over at least $200, and had a low likelyhood of damage. I then proceeded to gather photos of the specific items off Google images and listed each of them on rentoid. The rental prices I placed at 5% of item value for a week, and 10% of item value for a month. The bond I made 50% of the cost._
 > 
@@ -37,4 +37,4 @@ Steve rows his own boat quitely but diligently. From his must-read post "(http:/
 > 
 > _After the rental I sold the item on ebay for around about 80% of the retail price. I pretty much re-couped my costs doing this._
 
-**Further reading:** (http://www.cdixon.org/?p=334)
+**Further reading:** [cdixon.org](http://www.cdixon.org/?p=334)

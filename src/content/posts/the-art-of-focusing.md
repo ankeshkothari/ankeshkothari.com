@@ -107,7 +107,7 @@ Chandragupta goes on to create the Maurya Empire that for the first time unites 
 
 ![](/images/focus.jpg)
 
-(http://www.marketingbestpractices.com) shares this definition of Focus:
+[marketingbestpractices.com](http://www.marketingbestpractices.com) shares this definition of Focus:
 
 -   Follow
 -   One

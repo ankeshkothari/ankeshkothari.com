@@ -11,11 +11,11 @@ I recently bought the domain name http://anke.sh for $72.80 per year. A .sh doma
 
 ## But Why Start A URL Redirection Service?
 
-Micro blogging is becoming popular. Service like (http://twitter.com/ankeshk "Ankesh Kothari's Twitter") have a 140 character limit for messages. So you can't use long URLs. The longer the URL's you share, the less text you can write promoting it - hence killing its virality.
+Micro blogging is becoming popular. Service like [Ankesh Kothari's Twitter](http://twitter.com/ankeshk) have a 140 character limit for messages. So you can't use long URLs. The longer the URL's you share, the less text you can write promoting it - hence killing its virality.
 
 I can use http://anke.sh as a URL shortening and redirecting domain for all the links that I share with folks via social media and micro-blogging networks!
 
-**But Why Not Just Use Free URL Shortening & Redirecting Services Like (http://tinyurl.com "Tiny URL - URL shortening service") or (http://bit.ly "Bit.ly - URL shortening service with statistics")?**
+**But Why Not Just Use Free URL Shortening & Redirecting Services Like [Tiny URL - URL shortening service](http://tinyurl.com) or [Bit.ly - URL shortening service with statistics](http://bit.ly)?**
 
 Two reasons for that:
 
@@ -28,11 +28,11 @@ And hopefully that will open up a few doors for me. It will mean folks opening m
 
 ## So... How Can You Start Your Own URL Shortening & Redirecting Service?
 
-**1\.** Find a short domain name using **(http://domai.nr/ "Finding shorter domain names")**
+**1\.** Find a short domain name using **[Finding shorter domain names](http://domai.nr/)**
 
-**2\.** Install (http://wordpress.org "WordPress") on that domain **2a.** Activate (http://nathanbowers.com/seo/easy-wordpress-seo-change-urls-to-pretty-permalinks/ "Pretty Permalinks in WordPress").
+**2\.** Install [WordPress](http://wordpress.org) on that domain **2a.** Activate [Pretty Permalinks in WordPress](http://nathanbowers.com/seo/easy-wordpress-seo-change-urls-to-pretty-permalinks/).
 
-**3\.** Install the **(http://urbangiraffe.com/plugins/redirection/ "Redirection plugin for WordPress")** plugin **3a.** Go to "Options". In the auto-generate URL field, enter: http://doma.in/$hex$ (where doma.in is the short domain you've bought.)
+**3\.** Install the **[Redirection plugin for WordPress](http://urbangiraffe.com/plugins/redirection/)** plugin **3a.** Go to "Options". In the auto-generate URL field, enter: http://doma.in/$hex$ (where doma.in is the short domain you've bought.)
 
 Thats it. You're all set. Now every time you come across a link you want to share, instead of using tinyurl or bit.ly - use your own domain name.
 

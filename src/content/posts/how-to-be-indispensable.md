@@ -15,7 +15,7 @@ First came the iPods. Then they reduced the size with iPod minis and iPod nanos.
 
 Peter Drucker spent more decades than anyone else in the world constantly re-inventing the principles of management.
 
-(http://sethgodin.typepad.com/) is always on the cutting edge of marketing. He stays just slightly ahead of the curve.
+[sethgodin.typepad.com](http://sethgodin.typepad.com/) is always on the cutting edge of marketing. He stays just slightly ahead of the curve.
 
 You'll never find someone retain their spot at the top of the pyramid if they don't constantly innovate and make their own ideas obsolete.
 
@@ -33,7 +33,7 @@ If you don't distinguish yourself from others, you'll be easily replaced.
 
 **So how do you distinguish yourself and stand out from amongst the crowd?**
 
-**i.** Do what others don't. Be a contrarian. And (http://ittybiz.com/how-to-be-a-titan-of-industry/).
+**i.** Do what others don't. Be a contrarian. And [ittybiz.com](http://ittybiz.com/how-to-be-a-titan-of-industry/).
 
 **ii.** Polarize people. Don't be a diplomat. Take a strong stand.
 
@@ -43,13 +43,13 @@ If you don't distinguish yourself from others, you'll be easily replaced.
 
 **v.** Remember the peacock theory.
 
-> "Peacock theory is the idea that in order to attract the most desirable female of the species, it's necessary to stand out in a flashy and colorful way. For humans... the equivalent of a flashy peacock tail is a shiny shirt, a garish hat, and jewelry that lights up in the dark?basically everything I'd dismissed my whole life as cheesy." - (http://www.neilstrauss.com/neil-strauss/)
+> "Peacock theory is the idea that in order to attract the most desirable female of the species, it's necessary to stand out in a flashy and colorful way. For humans... the equivalent of a flashy peacock tail is a shiny shirt, a garish hat, and jewelry that lights up in the dark?basically everything I'd dismissed my whole life as cheesy." - [neilstrauss.com](http://www.neilstrauss.com/neil-strauss/)
 
 Remember Dennis Rodman? For years, Dennis was a first class basketball player putting up impressive rebounding numbers on the scorecard. But he didn't receive much publicity and hardly any endorsement contracts. That all changed when he coloured his hair red. By being bold and different, he instantly stood out from the rest of his mates. And made a fortune for himself endorsing products.
 
 \![](/images/dennis-rodman-hair.gif)\
 
-My favourite blogger - (http://www.fluentself.com/blog/) is more noticeable because she has Selma the Duck as her sidekick!
+My favourite blogger - [fluentself.com](http://www.fluentself.com/blog/) is more noticeable because she has Selma the Duck as her sidekick!
 
 ## 3\. Have a Voice Piece
 
@@ -70,9 +70,9 @@ Just like Location is the make-or-break point for a piece of real estate propert
 
 **i.** First rule of networking: help others before you need help yourself. What can you offer to others that will help them?
 
-**ii.** (/how-to-get-smart-people-to-send-you-cool-goodies-for-free/) is the easiest way of networking.
+**ii.** [Gifting](/how-to-get-smart-people-to-send-you-cool-goodies-for-free/) is the easiest way of networking.
 
-**iii.** Learn a trick or two from Paris Hilton: (http://chartreuse.wordpress.com/2006/09/18/why-paris-hilton-is-famous-or-understanding-value-in-a-post-madonna-world/)
+**iii.** Learn a trick or two from Paris Hilton: [chartreuse.wordpress.com](http://chartreuse.wordpress.com/2006/09/18/why-paris-hilton-is-famous-or-understanding-value-in-a-post-madonna-world/)
 
 **iv.** Get the current industry experts to endorse you. The way to create a magnet is by rubbing iron against an already existing powerful magnet. You can become magnetic and attract more folks by simply getting other magnetic personalities to give their nod to you!
 

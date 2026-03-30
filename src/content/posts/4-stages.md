@@ -3,7 +3,7 @@ title: "4 Stages of Marriage (Or 4 Stages of Job Life Cycle)"
 date: "2009-05-27"
 ---
 
-"Wizard Academy faculty (http://www.thenakedaccountant.com/ "Jean Carpenter Backus - The Naked Accountant") says there are 4 stages of marriage:
+"Wizard Academy faculty [Jean Carpenter Backus - The Naked Accountant](http://www.thenakedaccountant.com/) says there are 4 stages of marriage:
 
 1.  Infatuation
 2.  Disillusionment
@@ -18,4 +18,4 @@ Things usually work out if you can just hang on.
 
 _Hang on."_
 
-Source: Monday Morning Memo's (http://www.mondaymorningmemo.com/?ShowMe=QuixoteReader10)
+Source: Monday Morning Memo's [mondaymorningmemo.com](http://www.mondaymorningmemo.com/?ShowMe=QuixoteReader10)

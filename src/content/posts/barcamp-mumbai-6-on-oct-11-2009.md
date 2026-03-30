@@ -19,4 +19,4 @@ The tentative topic is:
 
 Its going to be fun!
 
-So attend if you can.? Sign up for (http://qik.li/gobcm6 "BarCamp Mumbai 6 Registration link").
+So attend if you can.? Sign up for [BarCamp Mumbai 6 Registration link](http://qik.li/gobcm6).

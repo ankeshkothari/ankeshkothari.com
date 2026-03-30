@@ -49,7 +49,7 @@ And then started partnering with folks who could help me with the content. And I
 
 ## Blogs I Am Involved With
 
--   ![](/images/antiaginghacks.gif "Anti Aging")(http://www.AntiAgingHacks.com "Anti Aging Hacks")
--   ![](/images/nontoxin.gif "nontoxin.com")(http://www.nontoxin.com "How to become better thinkers")
+-   ![](/images/antiaginghacks.gif "Anti Aging")[Anti Aging Hacks](http://www.AntiAgingHacks.com)
+-   ![](/images/nontoxin.gif "nontoxin.com")[How to become better thinkers](http://www.nontoxin.com)
 
-**Chapter 7:** (/steven-spielbergs-secret-to-riches/)
+**Chapter 7:** [Steven Spielberg's Secret to Riches](/steven-spielbergs-secret-to-riches/)

@@ -7,9 +7,9 @@ date: "2009-07-11"
 
 This past couple of weeks, the most repetitive conversations I've had are about:
 
-**i. Michael Jackson.** Admittedly, the first tape I had bought was a MJ tape. But I was surprised by the reaction of folks to his death ((http://www.cnn.com/2009/TECH/06/26/michael.jackson.internet/ "Michael Jackson's death causes internet outages")) - seeing how he hadn't released any new music since 2001!
+**i. Michael Jackson.** Admittedly, the first tape I had bought was a MJ tape. But I was surprised by the reaction of folks to his death ([Michael Jackson's death causes internet outages](http://www.cnn.com/2009/TECH/06/26/michael.jackson.internet/)) - seeing how he hadn't released any new music since 2001!
 
-**ii. Google's Chrome OS.** Folks are excited by something that isn't going to come out till another year!?Folks are going bonkers with speculation of how Google is going to pull down Microsoft once and for all ((http://www.techcrunch.com/2009/07/07/google-drops-a-nuclear-bomb-on-microsoft-and-its-made-of-chrome/ "Google Announces Chrome OS threatening Microsoft's OS domination"))... without even having a look at the software first!
+**ii. Google's Chrome OS.** Folks are excited by something that isn't going to come out till another year!?Folks are going bonkers with speculation of how Google is going to pull down Microsoft once and for all ([Google Announces Chrome OS threatening Microsoft's OS domination](http://www.techcrunch.com/2009/07/07/google-drops-a-nuclear-bomb-on-microsoft-and-its-made-of-chrome/))... without even having a look at the software first!
 
 **So why do people _over-hype_ such celebrities, products and events?**
 
@@ -21,7 +21,7 @@ Why are folks like Paris Hilton still hitting the magazine covers regularly?
 
 ## 2.
 
-(http://www.stanford.edu/~nfast/ "Nathanael Fast") - who earned his PhD in Organizational Behavior from Stanford University conducts a test. He gathers 89 people. And shows them a list of 8 baseball players and their past years statistics. Some of these players are obscure players but who put up some amazing numbers on board. And others are very popular players who underperformed in the last season.
+[Nathanael Fast](http://www.stanford.edu/~nfast/) - who earned his PhD in Organizational Behavior from Stanford University conducts a test. He gathers 89 people. And shows them a list of 8 baseball players and their past years statistics. Some of these players are obscure players but who put up some amazing numbers on board. And others are very popular players who underperformed in the last season.
 
 Each of these 89 folks is supposed to select one baseball players name from the list - and send a short email about him to someone else from the group.
 

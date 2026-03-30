@@ -10,7 +10,7 @@ Before the interwebs became popular, people read newspapers in 2 different ways.
 -   70% people read each and every word of the articles once they got past its headline.
 -   30% people scanned the articles. They didn't read all the words - just picked up on the first sentence per paragraph to get the jist of it.
 
-(Sharp readers will find that this 70:30 ratio is very close to the information gathering Sensing:iNtution ratios of the (http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) (http://www.infj.org/archive/typestats.html). Empirical tests show that 73% of people are Sensors and 27% are iNtuitive.)
+(Sharp readers will find that this 70:30 ratio is very close to the information gathering Sensing:iNtution ratios of the [en.wikipedia.org](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) [infj.org](http://www.infj.org/archive/typestats.html). Empirical tests show that 73% of people are Sensors and 27% are iNtuitive.)
 
 ## 2.
 
@@ -18,7 +18,7 @@ The interwebs changed peoples reading habits. The deluge of information is enorm
 
 ## 3.
 
-People often ask me how do I keep up with 10,000+ (http://twitter.com/ankeshk) followers!
+People often ask me how do I keep up with 10,000+ [twitter.com](http://twitter.com/ankeshk) followers!
 
 Usually - these are one of the [50% of people on Twitter](http://www.malcolmcoles.co.uk/blog/best-time-tweet/) who read each and every tweet. (The other 50% on Twitter don't read all the tweets.)
 

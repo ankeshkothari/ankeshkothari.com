@@ -37,7 +37,7 @@ In a few internal tests I ran, I found that the conversion rate for clicks on th
 
 All wasn't in vain however.
 
-To promote the BlogClout Link Exchange application, I had started a blog on blogging at (http://www.blogclout.com/blog/) where I published posts on how to increase a blog's traffic and how to make more money with your blogs.
+To promote the BlogClout Link Exchange application, I had started a blog on blogging at [blogclout.com](http://www.blogclout.com/blog/) where I published posts on how to increase a blog's traffic and how to make more money with your blogs.
 
 And to promote that blog, I decided to get a WordPress plugin developed. So I asked my coder to create a plugin that would allow readers to donate money to the bloggers via PayPal.
 
@@ -57,4 +57,4 @@ Once the plugin was ready, I simply sent out an email to half a dozen influentia
 -   Keep your eyes and ears open. Ideas are everywhere in the air!
 -   Learn the art of re-packaging. A sharp name and angle can make old things new again.
 
-**Chapter 6:** (../the-power-blogging-strategy/)
+**Chapter 6:** [The Power Blogging Strategy](/the-power-blogging-strategy/)

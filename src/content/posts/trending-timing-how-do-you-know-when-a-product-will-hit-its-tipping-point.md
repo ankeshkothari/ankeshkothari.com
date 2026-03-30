@@ -13,7 +13,7 @@ But IBM smartly waited till 1950s and 1960s. And became the first big company to
 
 ## So how do you find when is the right time?
 
-(http://sivers.org/ "Derek Sivers") (of CDbaby fame) recently posted an (http://sivers.org/dance-lessons "How to make a movement") on his blog:
+[Derek Sivers](http://sivers.org/) (of CDbaby fame) recently posted an [How to make a movement](http://sivers.org/dance-lessons) on his blog:
 
 Spend the 3 minutes and 6 seconds to watch the video. Its an awesome video because we rarely get to see a movement starting out and gaining momentum in a 3 minute time frame!
 

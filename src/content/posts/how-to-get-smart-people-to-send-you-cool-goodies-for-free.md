@@ -5,7 +5,7 @@ date: "2009-01-01"
 
 ## **1\. Promoting a Newsletter**
 
-So I had (/what-is-the-best-business-card-in-the-world/) to promote my consulting practice. But how to promote Marketing Hotsheet itself and attract folks to become paid subscribers?
+So I had [the best business card](/what-is-the-best-business-card-in-the-world/) to promote my consulting practice. But how to promote Marketing Hotsheet itself and attract folks to become paid subscribers?
 
 I used various tactics to promote Marketing Hotsheet like advertising on Google.com and writing articles for other websites. But there is one tactic that completely changed my fortunes. It's a tactic that takes less than 12 minutes a day to implement. I first learnt the tactic from Princess Diana.
 
@@ -35,4 +35,4 @@ Besides that, there were a lot of other benefits too. Because I wrote thank you 
 
 -   Write just one thank you note a day, everyday. Be disciplined enough to write just one letter a day and your fame will grow far and wide too.
 
-**Chapter 4:** (../how-to-make-money-with-mini-websites/)
+**Chapter 4:** [How To Make Money With Mini Websites](/how-to-make-money-with-mini-websites/)

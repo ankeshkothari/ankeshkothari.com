@@ -29,9 +29,9 @@ Occassional obscenity persuades people!
 
 ## 3\. So Should We Use Profanity Or Not?
 
--   I've been a big fan of the late (http://web.archive.org/web/20030201120938/http://www.thegaryhalbertletter.com/ "Gary Halbert's website"). I recall the impact the dual instance of f@#%ing profanity he used had on me. Made me perceive him as being a no-bs guy (which if you listen to a few guys in the know - wasn't exactly true).
--   I also recall being in Buda, Texas - listening to (https://wizardacademy.org/ "Roy H. Williams Wizard Academy") speak. And he utters a single f@#%ing obscene word to amplify a point. Makes the whole room nod and smile. And makes me realize that he is the best god darn speaker I've ever head.
--   And one of the few bloggers I follow - (http://www.ittybiz.com/ "Naomi Dunford of Ittybiz") - uses profanity like a drunk sailor - or like a smart strategist to distinguish herself from the drones in the over-crowded make-money niche.
+-   I've been a big fan of the late [Gary Halbert's website](http://web.archive.org/web/20030201120938/http://www.thegaryhalbertletter.com/). I recall the impact the dual instance of f@#%ing profanity he used had on me. Made me perceive him as being a no-bs guy (which if you listen to a few guys in the know - wasn't exactly true).
+-   I also recall being in Buda, Texas - listening to [Roy H. Williams Wizard Academy](https://wizardacademy.org/) speak. And he utters a single f@#%ing obscene word to amplify a point. Makes the whole room nod and smile. And makes me realize that he is the best god darn speaker I've ever head.
+-   And one of the few bloggers I follow - [Naomi Dunford of Ittybiz](http://www.ittybiz.com/) - uses profanity like a drunk sailor - or like a smart strategist to distinguish herself from the drones in the over-crowded make-money niche.
 
 But
 

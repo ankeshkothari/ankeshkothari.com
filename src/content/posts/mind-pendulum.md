@@ -3,8 +3,8 @@ title: "Mind Pendulum"
 date: "2012-11-13"
 ---
 
-![](/images/christiaan_huygens-painting.jpeg)**  
-Christian Huygens - Did his invention pave the way for the biggest revolution the world has ever seen?**
+![Christiaan Huygens](/images/christiaan_huygens-painting.jpeg)  
+**Christian Huygens - Did his invention pave the way for the biggest revolution the world has ever seen?**
 
 Christiaan Huygens is a very smart over-achieving Dutch physicist and mathematician. He helped in the development of modern calculus. He discovered Saturn’s moon Titan. He was the first one to observe the Orion Nebula through a telescope and drew its sketch.
 
@@ -48,8 +48,8 @@ The experiment: In a monastery in northern India, thinly clad monks sat down in 
 
 If you or me were placed in such a situation, we would shiver to death. But steam began arising from these sheets on the monks’ shoulders. And within an hour, the sheets were dry!
 
-![10-tumo2-450.jpg](/images/10-tumo2-450.jpg)**  
-A monk prepares to go to an advanced stage of meditation while his vital signs are measured.**
+![A monk meditating](/images/10-tumo2-450.jpg)
+*A monk prepares to go to an advanced stage of meditation while his vital signs are measured.*
 
 Realize that conscious thought arises in the cerebrum part of our brains. While rates of metabolism, body temperature and other automatic body functions like breathing and heart beats are managed by the brain stem (medulla). The medulla works 24/7 without our conscious interference – whether we are awake or asleep.
 

@@ -41,7 +41,7 @@ The idea looked good to me. But there is a problem. I'm a kid with no resources 
 
 ## **3\. The Solution**
 
-The joke sparked a light bulb in my brain. I quickly logged on to the ICQ chat network and started finding programmers over there. I asked a simple question to all of them: **"What would it take for you to create a site for me for free? What could I do in return?"** The first 7 or 8 programmers let me know that they didn't work that way. But one project manager working for a big programming company in Ukraine made me an offer: **If I found 2 paying clients for him, he would assign a junior programmer to create my website for free!** I then spent the next few days contacting anyone and everyone I knew and asked them another simple question: **"Do you know someone who knows someone who needs programming work done?"** I did manage to find 2 paying clients for the Ukrainian company. And they did keep their word and create the website for me. And within the first month, that website became moderately successful. Attracting close to 540 members in its first 3 weeks! Would you like to see a snapshot of the website? [!(/images/maxmailer-screen.jpg "MaxMailer.com")](/images/maxmailer-screen.jpg)
+The joke sparked a light bulb in my brain. I quickly logged on to the ICQ chat network and started finding programmers over there. I asked a simple question to all of them: **"What would it take for you to create a site for me for free? What could I do in return?"** The first 7 or 8 programmers let me know that they didn't work that way. But one project manager working for a big programming company in Ukraine made me an offer: **If I found 2 paying clients for him, he would assign a junior programmer to create my website for free!** I then spent the next few days contacting anyone and everyone I knew and asked them another simple question: **"Do you know someone who knows someone who needs programming work done?"** I did manage to find 2 paying clients for the Ukrainian company. And they did keep their word and create the website for me. And within the first month, that website became moderately successful. Attracting close to 540 members in its first 3 weeks! Would you like to see a snapshot of the website? ![MaxMailer.com](/images/maxmailer-screen.jpg)
 
 ## **4\. The Not So Golden End**
 
@@ -54,6 +54,6 @@ Every time I've told this story to others, I've always been asked: **Why is MaxM
 -   Play on your strengths. Do what you are good with. Or else, you'll just end up wasting time.
 -   Just do it. Take action. Keep on moving.
 
-**Chapter 2:** (../what-is-the-best-business-card-in-the-world/)
+**Chapter 2:** [What Is The Best Business Card In The World?](/what-is-the-best-business-card-in-the-world/)
 
 \

@@ -5,7 +5,7 @@ date: "2009-06-04"
 
 ## 1\. Rewarding Drunks To Create Efficiency
 
-While I was in USA, I was working with a local non-profit who provides temporary housing and support to poverty ridden folks. And while doing research for them, I come across (http://www.nytimes.com/2006/07/05/us/05homeless.html "Homeless alcoholics receive a permanent place to live")."
+While I was in USA, I was working with a local non-profit who provides temporary housing and support to poverty ridden folks. And while doing research for them, I come across [Homeless alcoholics receive a permanent place to live](http://www.nytimes.com/2006/07/05/us/05homeless.html)."
 
 The project rewards the chronic drunkards of the city by giving them a rent-free place to live forever. The reasoning is: rehabilitating the worst drunks cost about $13,000 per year. But if these folks aren't given free food and stay and taken care of, they end up costing $50,000 to the system per year on average... because of the staggering costs of the detox vans, emergency rooms, hospital fees, cop interventions, prison charges etc that each of them racks up.
 

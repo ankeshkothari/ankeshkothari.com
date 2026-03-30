@@ -27,7 +27,7 @@ Now that you know that **baubles = bonuses and rewards**, let us see what kind o
 
 ## 2\. E. Joseph Cossman reveals the type of baubles you should give away
 
-E Joseph Cossman is a marketing legend. Wall street journal calls him: "The Messiah of the free enterprise system." He made more than 1 million dollars through mail order. What‘s more, he wrote a book about it ((http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FHow-Made-000-Mail-Order%2Fdp%2F0671872761&tag=ankeshkothari-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=ankeshkothari-20&l=ur2&o=1)), which became a classic. Yet even he sometimes had trouble selling products.
+E Joseph Cossman is a marketing legend. Wall street journal calls him: "The Messiah of the free enterprise system." He made more than 1 million dollars through mail order. What‘s more, he wrote a book about it ([Amazon](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FHow-Made-000-Mail-Order%2Fdp%2F0671872761&tag=ankeshkothari-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=ankeshkothari-20&l=ur2&o=1)), which became a classic. Yet even he sometimes had trouble selling products.
 
 ![](/images/spud-guns.jpg) **How did Cossman Sell These Spud Guns?**
 
@@ -61,7 +61,7 @@ Peoples valuation of the bracelet lowers when it is bundled as a bonus! Even tho
 
 ![3 Waiters](/images/waiters2.jpg) **How Can Waiters Earn More Tips?**
 
-Most (/smart-waiters-dumb-burglars-how-to-use-subtle-hints-to-get-things-done/) have it tough. They earn minimum wages. And they would be under the poverty line if they wouldn't earn enough in tips. Many experiments have been conducted to see what increases the amount of tips a waiter receives.
+Most [people](/smart-waiters-dumb-burglars-how-to-use-subtle-hints-to-get-things-done/) have it tough. They earn minimum wages. And they would be under the poverty line if they wouldn't earn enough in tips. Many experiments have been conducted to see what increases the amount of tips a waiter receives.
 
 Cornell University's hospitality department conducts one such experiment. The researchers try to determine how rewarding the diners at the end of the meal affects the tips.
 

@@ -37,7 +37,7 @@ This ipin step has solved the 0.16% fraud issue. But in exchange, it has meant a
 
 Its akin to using an atom bomb to kill an ant!
 
-(Source of my numbers: (http://business.rediff.com/report/2009/jul/24/rbi-tightens-online-card-use.htm "RBI tries fighting online fraud")
+(Source of my numbers: [RBI tries fighting online fraud](http://business.rediff.com/report/2009/jul/24/rbi-tightens-online-card-use.htm)
 
 What could RBI have done instead? How could they "place a fan" so to speak?
 
@@ -48,4 +48,4 @@ What could RBI have done instead? How could they "place a fan" so to speak?
 ## Action Summary:
 
 -   Don't over think your problems. Don't spend unnecessary time on creating efficiency.
--   Get to the (http://www.nontoxin.com/slow-elevators-and-long-ass-queues-how-to-get-to-the-root-of-the-problems/) before trying to solve it.
+-   Get to the [nontoxin.com](http://www.nontoxin.com/slow-elevators-and-long-ass-queues-how-to-get-to-the-root-of-the-problems/) before trying to solve it.

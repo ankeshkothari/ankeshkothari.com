@@ -5,7 +5,7 @@ date: "2009-03-27"
 
 **This Offer Is No Longer Valid.**
 
-I will give free hosting to people who are starting out with their online businesses. No catch. You just have to (/contact-Ankesh-Kothari/) if you need it.
+I will give free hosting to people who are starting out with their online businesses. No catch. You just have to [contact me](/contact-ankesh-kothari/) if you need it.
 
 **Why am I offering free hosting?**
 
@@ -28,7 +28,7 @@ This deal is not forever. Its only supposed to get you started without any hosti
 
 **Restrictions:**
 
-There are no restrictions right now. I will set you up with free hosting on my (http://www.liquidweb.com) servers.
+There are no restrictions right now. I will set you up with free hosting on my [Liquid Web](http://www.liquidweb.com) servers.
 
 But I may create a few more rules if I find someone abusing this offer. (For eg: if you email a million people per day or something.)
 

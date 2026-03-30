@@ -9,7 +9,7 @@ There are thousands of techies in India. But if you compare the ratio of techies
 
 ## 2.
 
-History gives us a clue. Many people have pondered over (http://www.voxeu.org/q=node/3570) - and not in China or Spain or someplace.
+History gives us a clue. Many people have pondered over [voxeu.org](http://www.voxeu.org/q=node/3570) - and not in China or Spain or someplace.
 
 Trade, especially woolen trade depended entirely upon London's port. And as trade grew over the years, so did London's population. London's population exploded from 50,000 in 1500 to 200,000 in 1600 and half a million in 1700.
 

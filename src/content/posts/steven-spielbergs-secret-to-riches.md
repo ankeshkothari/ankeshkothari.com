@@ -9,13 +9,13 @@ Yes. Universal theme park pays a whole 2% of all ticket sales to Spielberg. Whic
 
 **That’s the power of repackaging and licensing.  That’s the ticket to making easy money.**
 
-So when (http://mikekeesee.com/) – a (http://www.wizardofads.com/) – approached me to co-author a book, I agreed. He took a few of my (/what-is-the-best-business-card-in-the-world/) case studies, added some more kick ass marketing content to it, and converted it into a book.
+So when [Mike Keesee](http://mikekeesee.com/) – a [Wizard of Ads partner](http://www.wizardofads.com/) – approached me to co-author a book, I agreed. He took a few of my [marketing](/what-is-the-best-business-card-in-the-world/) case studies, added some more kick ass marketing content to it, and converted it into a book.
 
 Unfortunately, by the time the book got published – I was focusing all my energies on other ventures beyond marketing. And so, I didn’t push the promotion on the book as hard as I ought to. And as a result, the book didn’t hit any of the best sellers list.
 
 But the book is awesome. Just read a few of the unsolicited amazon reviews we’ve received:
 
-(http://amzn.to/kOFbFg)
+[amzn.to](http://amzn.to/kOFbFg)
 
 Note: the book was going to be called Magic Bullets. But we faced some last minute naming problems due to already existing trademarks. And hence, went with our work-in-progress name.
 

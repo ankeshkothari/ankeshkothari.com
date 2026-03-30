@@ -10,4 +10,4 @@ Tony Hsieh Unified Happiness Theory is not entirely settled. It involves establi
 3.  relatedness,
 4.  and a connection to a larger vision.
 
-Source: (http://www.inc.com/magazine/20090501/the-zappos-way-of-managing_Printer_Friendly.html "Zappos Management Style")
+Source: [Zappos Management Style](http://www.inc.com/magazine/20090501/the-zappos-way-of-managing_Printer_Friendly.html)

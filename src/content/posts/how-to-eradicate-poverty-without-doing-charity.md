@@ -60,7 +60,7 @@ Because everything that is rewarded grows… if you reward poverty, how can you 
 
 **“Give a man a fish and you feed him for a day. Teach a man how to fish and you feed him for a lifetime.”** – Chinese Proverb.
 
-Your job is to teach a man how to fish only when he is willing\* to learn. And when he is willing to (/when-did-noah-build-the-ark-and-the-benefits-of-sacrifice/) to learn.
+Your job is to teach a man how to fish only when he is willing\* to learn. And when he is willing to [sacrifice](/when-did-noah-build-the-ark-and-the-benefits-of-sacrifice/) to learn.
 
 \*But how to build the desire in the hearts of poverty ridden people to raise their hands? To become willing to learn? To become willing to pay the price when they are already poor?
 
@@ -122,6 +122,6 @@ Muhammad Yunus has perhaps done more to eradicate poverty than anyone else in th
 
 Because of this idea of giving out mico-loans to groups, Yunus’s bank had a 98% rate of loan payback (better than most banks out there)!
 
-Today, (http://www.kiva.org) has made the concept of mico-loans a lot easier. You can loan money to poor people with business ideas online. These lenders will send you email updates on their progress. And pay the loan back within 6-12 months.
+Today, [kiva.org](http://www.kiva.org) has made the concept of mico-loans a lot easier. You can loan money to poor people with business ideas online. These lenders will send you email updates on their progress. And pay the loan back within 6-12 months.
 
 [![](http://blogactionday.org/img/988024467416268ea3811928aec0aaf251f3bfc9.jpg)](http://blogactionday.org)
