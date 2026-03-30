@@ -72,6 +72,16 @@ function htmlToMarkdown(html) {
   // Remove <form> tags
   cleaned = cleaned.replace(/<form[^>]*>[\s\S]*?<\/form>/gi, '');
 
+  // WordPress wpautop: convert double newlines to <p> tags if no <p> tags exist
+  if (!/<p[\s>]/i.test(cleaned)) {
+    cleaned = cleaned
+      .split(/(?:\r?\n){2,}/)
+      .map(block => block.trim())
+      .filter(block => block.length > 0)
+      .map(block => `<p>${block}</p>`)
+      .join('\n');
+  }
+
   // Convert with Turndown
   let md = turndown.turndown(cleaned);
 

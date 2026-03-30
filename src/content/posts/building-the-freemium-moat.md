@@ -3,4 +3,26 @@ title: "Building the Freemium Moat"
 date: "2012-03-06"
 ---
 
-[![](/images/moat.jpg "moat")](/images/moat.jpg) **1.** _“In business, I look for economic castles protected by unbreachable ‘moats’.”_ **\- Warren Buffett** Smart kings built moats around castles to protect them. The wider the moats, the harder it is for enemies to attack the castles. For Buffet, castles are the companies. And moats are their competitive advantage. He searches for companies that have strong competitive advantages that are hard to copy by the competition. One of the ideas to build competitive advantages has been the concept of freemium. Give away the base product for free. Attract a lot more clients than the competition can. And then upsell accounts with more features and less restrictions. Mailchimp.com has become the biggest email service provider because of their freemium plans. But the problem has always been that the companies that start with a freemium business model face cashflow problems. Their initial expenses are unsustainably high. Is there any solution to this problem? **2.** **People first build the bridges. Then they fill the moats.** Starting with moats makes building of bridges insanely hard. This is a lesson many SaaS based companies seem to have forgotten. They start with the freemium model. Their cashflow can't sustain the model. And they then drop the freemium plan. What you've got to do is delay the freemium model. Start with fee based accounts. Accumulate cash. Then use that cashflow to sustain the freemium clients. That's the only way to become the pre-eminent market leader in your industry with the freemium strategy.
+[![](/images/moat.jpg "moat")](/images/moat.jpg)
+
+**1.**
+
+_“In business, I look for economic castles protected by unbreachable ‘moats’.”_ **\- Warren Buffett**
+
+Smart kings built moats around castles to protect them. The wider the moats, the harder it is for enemies to attack the castles.
+
+For Buffet, castles are the companies. And moats are their competitive advantage. He searches for companies that have strong competitive advantages that are hard to copy by the competition.
+
+One of the ideas to build competitive advantages has been the concept of freemium. Give away the base product for free. Attract a lot more clients than the competition can. And then upsell accounts with more features and less restrictions.
+
+Mailchimp.com has become the biggest email service provider because of their freemium plans.
+
+But the problem has always been that the companies that start with a freemium business model face cashflow problems. Their initial expenses are unsustainably high. Is there any solution to this problem?
+
+**2.**
+
+**People first build the bridges. Then they fill the moats.** Starting with moats makes building of bridges insanely hard.
+
+This is a lesson many SaaS based companies seem to have forgotten. They start with the freemium model. Their cashflow can't sustain the model. And they then drop the freemium plan.
+
+What you've got to do is delay the freemium model. Start with fee based accounts. Accumulate cash. Then use that cashflow to sustain the freemium clients. That's the only way to become the pre-eminent market leader in your industry with the freemium strategy.
