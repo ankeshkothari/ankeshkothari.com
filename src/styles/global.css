@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+:root {
+  --color-bg: #00183d;
+  --color-text: #ffffff;
+  --color-text-muted: #6991cd;
+  --color-accent: #f7265e;
+  --color-accent-hover: #ff4775;
+  --color-border: rgba(255, 255, 255, 0.15);
+  --max-width: 780px;
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 4rem;
+}
+
+html {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: var(--color-text);
+  background: var(--color-bg);
+  font-size: 18px;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--spacing-lg);
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-accent-hover);
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 900;
+  line-height: 1.2;
+  margin-bottom: var(--spacing-md);
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+p {
+  margin-bottom: var(--spacing-lg);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.prose {
+  max-width: 100%;
+}
+
+.prose h2 {
+  margin-top: var(--spacing-xl);
+}
+
+.prose h3 {
+  margin-top: var(--spacing-lg);
+}
+
+.prose ul,
+.prose ol {
+  padding-left: var(--spacing-lg);
+  margin-bottom: var(--spacing-lg);
+}
+
+.prose li {
+  margin-bottom: var(--spacing-sm);
+}
+
+.prose blockquote {
+  border-left: 3px solid var(--color-border);
+  padding-left: var(--spacing-md);
+  font-style: italic;
+  color: var(--color-text-muted);
+  margin: var(--spacing-lg) 0;
+}
+
+.prose strong {
+  font-weight: 700;
+}
+
+.prose em {
+  color: var(--color-text-muted);
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}

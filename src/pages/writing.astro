@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Writing">
+  <section class="writing">
+    <h1>Writing</h1>
+
+    <div class="book">
+      <img src="https://ankeshkothari.com/wp-content/uploads/strategy-daddy.jpg" alt="Strategy Daddy book" class="book-cover" />
+      <div class="book-info">
+        <h3>Strategy Daddy: Marketing Strategies, Tactics and Case Studies That Can Change the Competitive Landscape of Your Business</h3>
+        <p>A book co-authored by the fabulous Michael Keesee &amp; yours truly has been published by Pediment Publishing in April of 2010. The reviews have been pretty good.</p>
+        <p><em>"I know what you are thinking. *Not another marketing book!* Well you are right. This is not just another marketing book. I have read too many books that deal with the theories of marketing without any real world applications. In this book it is not just theory, but practical applications to help you create a buzz and make people take notice."</em></p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .writing {
+    padding: var(--spacing-xl) 0;
+  }
+
+  .book {
+    margin-top: var(--spacing-xl);
+  }
+
+  .book-cover {
+    max-width: 200px;
+    float: left;
+    margin-right: var(--spacing-lg);
+    margin-bottom: var(--spacing-md);
+  }
+
+  .book::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+</style>

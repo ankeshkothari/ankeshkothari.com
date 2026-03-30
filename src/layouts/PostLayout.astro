@@ -1,0 +1,109 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
+
+const { post } = Astro.props;
+const { title } = post.data;
+
+const allPosts = await getCollection('posts');
+const sorted = allPosts.sort((a, b) => a.data.date.getTime() - b.data.date.getTime());
+const currentIndex = sorted.findIndex(p => p.id === post.id);
+const prevPost = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+const nextPost = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+---
+
+<BaseLayout title={title}>
+  <article class="post">
+    <header class="post-header">
+      <h1>{title}</h1>
+    </header>
+
+    <div class="prose">
+      <slot />
+    </div>
+
+    <nav class="post-nav">
+      <div class="post-nav-divider"></div>
+      <div class="post-nav-links">
+        {prevPost && (
+          <a href={`/${prevPost.id}/`} class="post-nav-link prev">
+            &larr; {prevPost.data.title}
+          </a>
+        )}
+        {nextPost && (
+          <a href={`/${nextPost.id}/`} class="post-nav-link next">
+            {nextPost.data.title} &rarr;
+          </a>
+        )}
+      </div>
+      <div class="post-nav-divider"></div>
+    </nav>
+  </article>
+</BaseLayout>
+
+<style>
+  .post-header {
+    padding: var(--spacing-xl) 0 var(--spacing-lg);
+  }
+
+  .post-header h1 {
+    font-size: 3.5rem;
+    line-height: 1.1;
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 600px) {
+    .post-header h1 {
+      font-size: 2.2rem;
+    }
+  }
+
+  .post-nav {
+    margin-top: var(--spacing-xl);
+  }
+
+  .post-nav-divider {
+    border-top: 1px solid var(--color-border);
+    position: relative;
+    margin: var(--spacing-md) 0;
+  }
+
+  .post-nav-divider::after {
+    content: '//';
+    position: absolute;
+    top: -0.7em;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--color-bg);
+    padding: 0 0.5rem;
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+  }
+
+  .post-nav-links {
+    display: flex;
+    justify-content: space-between;
+    padding: var(--spacing-md) 0;
+  }
+
+  .post-nav-link {
+    color: var(--color-accent);
+    text-decoration: none;
+    font-size: 0.95rem;
+    max-width: 45%;
+  }
+
+  .post-nav-link:hover {
+    text-decoration: underline;
+  }
+
+  .post-nav-link.next {
+    margin-left: auto;
+    text-align: right;
+  }
+</style>

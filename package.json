@@ -1,0 +1,20 @@
+{
+  "name": "ankeshkothari.com",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "migrate": "node scripts/migrate-wp-xml.js"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.6.1",
+    "astro": "^6.1.2",
+    "turndown": "^7.2.0"
+  }
+}

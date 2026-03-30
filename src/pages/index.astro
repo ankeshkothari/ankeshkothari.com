@@ -1,0 +1,104 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Home">
+  <section class="hero">
+    <h1>Ankesh Kothari</h1>
+  </section>
+
+  <section class="photos">
+    <div class="photo-grid">
+      <figure>
+        <img src="https://ankeshkothari.com/wp-content/uploads/ankesh-old-150x150.jpg" alt="Ankesh - Before" />
+        <figcaption>Before</figcaption>
+      </figure>
+      <figure>
+        <img src="https://ankeshkothari.com/wp-content/uploads/ankesh-new-150x150.jpg" alt="Ankesh - After" />
+        <figcaption>After</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="about-lists">
+    <ul>
+      <li>Can't small talk</li>
+      <li>Disorganized</li>
+      <li>But gets the things done</li>
+      <li>Voracious reader</li>
+    </ul>
+    <ul>
+      <li>Born with a verry curious mind</li>
+      <li>Makes other people cook for him</li>
+      <li>Part time writer</li>
+      <li>Full time gopher</li>
+    </ul>
+    <ul>
+      <li>Currently resides in Mumbai, India</li>
+      <li>Sunsign: Aries</li>
+      <li>Started his first venture at the age of 15</li>
+      <li>Serial entrepreneur</li>
+    </ul>
+    <ul>
+      <li>Loves travelling</li>
+      <li>Has traveled extensively all over India, North America and Western Europe</li>
+      <li>Loves collecting quotes</li>
+      <li>Tends to write in bullet points sometimes</li>
+    </ul>
+    <ul>
+      <li>Awesome at strategy and planning</li>
+      <li>MBTI personality: INTx</li>
+      <li>Loves chocolates!</li>
+      <li>Good at finding solutions to hard problems</li>
+    </ul>
+  </section>
+
+  <section class="action-summary">
+    <h2>Action Summary:</h2>
+    <p>Want to read about my business experiences? Then start reading "<a href="/can-we-napsterize-advertising-or-how-i-got-a-1000-website-made-for-free/">Adventures of a Serial Entrepreneur</a>"</p>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding: var(--spacing-xl) 0;
+  }
+
+  .photos {
+    margin-bottom: var(--spacing-xl);
+  }
+
+  .photo-grid {
+    display: flex;
+    gap: var(--spacing-lg);
+  }
+
+  .photo-grid figure {
+    margin: 0;
+  }
+
+  .photo-grid img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+
+  .photo-grid figcaption {
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+    margin-top: var(--spacing-sm);
+  }
+
+  .about-lists ul {
+    padding-left: var(--spacing-lg);
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .about-lists li {
+    margin-bottom: var(--spacing-xs);
+  }
+
+  .action-summary {
+    margin-top: var(--spacing-xl);
+  }
+</style>
