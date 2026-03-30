@@ -13,7 +13,7 @@ When I wanted to start my own marketing consultancy practice, I took a page out 
 
 ## **3\. Three Free Issues of Marketing Hotsheet**
 
-[![](https://ankeshkothari.com/wp-content/uploads/3-hotsheets.gif "Marketing Hotsheet")](https://ankeshkothari.com/wp-content/uploads/3-hotsheets.gif) Would you like to see what these Marketing Hotsheets looked like?
+[![](/images/3-hotsheets.gif "Marketing Hotsheet")](/images/3-hotsheets.gif) Would you like to see what these Marketing Hotsheets looked like?
 
 -   (https://ankeshkothari.com/marketinghotsheet1.pdf)
 -   (https://ankeshkothari.com/marketinghotsheet2.pdf)

@@ -3,7 +3,7 @@ title: "TEDxMumbai - A Smashing Hit"
 date: "2010-04-07"
 ---
 
-[![](https://ankeshkothari.com/wp-content/uploads/TEDxMumbai.jpg "TEDxMumbai")](http://TEDxMumbai.com) So (http://TEDxMumbai.com) happened on 3rd April at Blue Frog - and it was a smashing hit! We had 180+ attendants who were raving about the event. A lot of the speakers actually got standing ovations (a very rare thing in India)! And we had 17,759 views of the live online streaming video of the event! Now that the event has been so successful, let me take this space to answer to 2 objections that kept on popping up during the days we were putting the event together.
+[![](/images/TEDxMumbai.jpg "TEDxMumbai")](http://TEDxMumbai.com) So (http://TEDxMumbai.com) happened on 3rd April at Blue Frog - and it was a smashing hit! We had 180+ attendants who were raving about the event. A lot of the speakers actually got standing ovations (a very rare thing in India)! And we had 17,759 views of the live online streaming video of the event! Now that the event has been so successful, let me take this space to answer to 2 objections that kept on popping up during the days we were putting the event together.
 
 ## Why go with the TED brand? Why not just create a new event and give it a new name?
 

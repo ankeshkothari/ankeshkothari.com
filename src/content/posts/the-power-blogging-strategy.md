@@ -16,7 +16,7 @@ Ram & Shyam are two entrepreneurs both living in a town where the nearest well i
 
 ## **3\. Creating The Blog Network**
 
-I knew I wanted to be like Shyam. I wanted to create a pipeline. Create a system for blogs that is self sustaining once the momentum is built. So I sat down and created a 3 pronged mind map for blogs: **Prong 1:** Add advertisements to the blog. And pay for writers and content developers via the revenue these ads generate. **Prong 2:** Create and sell a $7-10 report. And pump in the profits this report generates in buying ads and promoting the blog. **Prong 3:** Sell further related products via the blog. And turn a profit. To start a new blog. I then sat down and created a mind map for marketing the blogs. Which looks like: [![](https://ankeshkothari.com/wp-content/uploads/perpetual-momentum-blogs-map.gif "Blog Map")](https://ankeshkothari.com/wp-content/uploads/perpetual-momentum-blogs-map.gif) (it's not the whole mind map) And then started partnering with folks who could help me with the content. And I could handle the technicalities and the marketing of the blogs.
+I knew I wanted to be like Shyam. I wanted to create a pipeline. Create a system for blogs that is self sustaining once the momentum is built. So I sat down and created a 3 pronged mind map for blogs: **Prong 1:** Add advertisements to the blog. And pay for writers and content developers via the revenue these ads generate. **Prong 2:** Create and sell a $7-10 report. And pump in the profits this report generates in buying ads and promoting the blog. **Prong 3:** Sell further related products via the blog. And turn a profit. To start a new blog. I then sat down and created a mind map for marketing the blogs. Which looks like: [![](/images/perpetual-momentum-blogs-map.gif "Blog Map")](/images/perpetual-momentum-blogs-map.gif) (it's not the whole mind map) And then started partnering with folks who could help me with the content. And I could handle the technicalities and the marketing of the blogs.
 
 ## **Action Summary:**
 
@@ -25,7 +25,7 @@ I knew I wanted to be like Shyam. I wanted to create a pipeline. Create a system
 
 ## Blogs I Am Involved With
 
--   ![](https://ankeshkothari.com/wp-content/uploads/antiaginghacks.gif "Anti Aging")(http://www.AntiAgingHacks.com "Anti Aging Hacks")
--   ![](https://ankeshkothari.com/wp-content/uploads/nontoxin.gif "nontoxin.com")(http://www.nontoxin.com "How to become better thinkers")
+-   ![](/images/antiaginghacks.gif "Anti Aging")(http://www.AntiAgingHacks.com "Anti Aging Hacks")
+-   ![](/images/nontoxin.gif "nontoxin.com")(http://www.nontoxin.com "How to become better thinkers")
 
 **Chapter 7:** (https://ankeshkothari.com/steven-spielbergs-secret-to-riches/)

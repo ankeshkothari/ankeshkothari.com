@@ -15,7 +15,7 @@ Eons ago, there is a small town named Chelm somewhere in Europe. To bring order 
 
 > "Peacock theory is the idea that in order to attract the most desirable female of the species, it's necessary to stand out in a flashy and colorful way. For humans... the equivalent of a flashy peacock tail is a shiny shirt, a garish hat, and jewelry that lights up in the dark?basically everything I'd dismissed my whole life as cheesy." - (http://www.neilstrauss.com/neil-strauss/)
 
-Remember Dennis Rodman? For years, Dennis was a first class basketball player putting up impressive rebounding numbers on the scorecard. But he didn't receive much publicity and hardly any endorsement contracts. That all changed when he coloured his hair red. By being bold and different, he instantly stood out from the rest of his mates. And made a fortune for himself endorsing products. \![](https://ankeshkothari.com/wp-content/uploads/dennis-rodman-hair.gif)\ My favourite blogger - (http://www.fluentself.com/blog/) is more noticeable because she has Selma the Duck as her sidekick!
+Remember Dennis Rodman? For years, Dennis was a first class basketball player putting up impressive rebounding numbers on the scorecard. But he didn't receive much publicity and hardly any endorsement contracts. That all changed when he coloured his hair red. By being bold and different, he instantly stood out from the rest of his mates. And made a fortune for himself endorsing products. \![](/images/dennis-rodman-hair.gif)\ My favourite blogger - (http://www.fluentself.com/blog/) is more noticeable because she has Selma the Duck as her sidekick!
 
 ## 3\. Have a Voice Piece
 
@@ -30,4 +30,4 @@ Benjamin Franklin was the most popular person of his generation. Even today, his
 
 ## Action Map:
 
- [![](https://ankeshkothari.com/wp-content/uploads/indispensable.jpg) Click picture to view an expanded chart.](https://ankeshkothari.com/wp-content/uploads/indispensable-expand.jpg)
+ [![](/images/indispensable.jpg) Click picture to view an expanded chart.](/images/indispensable-expand.jpg)

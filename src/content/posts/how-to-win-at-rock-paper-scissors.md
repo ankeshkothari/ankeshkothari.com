@@ -3,7 +3,7 @@ title: "How To Win at Rock Paper Scissors"
 date: "2012-11-01"
 ---
 
-![](https://ankeshkothari.com/wp-content/uploads/rock-paper-scissors.gif) Takashi Hashiyama is the president of a Japanese electronics company called the Maspro Denkoh Corporation. He owns a collection of Impressionist paintings that include master pieces by Picassos and Van Gogh. The collection is worth £11 million. In January of 2005, Takashi decides to sell his entire art collection. But he is in a conundrum: He doesn’t want to break his collection. So which of the 2 world’s best auction houses should he select to handle the selling of his collection without breaking it?
+![](/images/rock-paper-scissors.gif) Takashi Hashiyama is the president of a Japanese electronics company called the Maspro Denkoh Corporation. He owns a collection of Impressionist paintings that include master pieces by Picassos and Van Gogh. The collection is worth £11 million. In January of 2005, Takashi decides to sell his entire art collection. But he is in a conundrum: He doesn’t want to break his collection. So which of the 2 world’s best auction houses should he select to handle the selling of his collection without breaking it?
 
 -   Christie’s? or
 -   Sotheby’s?

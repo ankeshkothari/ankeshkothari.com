@@ -16,7 +16,7 @@ I moved back to Mumbai from Michigan in early 2006. And it felt like I was movin
 -   Local consulting to small business owners in Mumbai didn't pay that well.
 -   And the twice a month deadlines were taking their toll on me.
 
-At the same time, while promoting Marketing Hotsheet online, I learnt a lot of online marketing tricks. So one day, I sat down and created a mind map of the easiest way to make money online. The mind map looks something like: [![](https://ankeshkothari.com/wp-content/uploads/mini-website-map.gif "Mini Website Map")](https://ankeshkothari.com/wp-content/uploads/mini-website-map.gif)
+At the same time, while promoting Marketing Hotsheet online, I learnt a lot of online marketing tricks. So one day, I sat down and created a mind map of the easiest way to make money online. The mind map looks something like: [![](/images/mini-website-map.gif "Mini Website Map")](/images/mini-website-map.gif)
 
 1.  Create a website with a form on it. Ask people for their email addresses and start sending them a series of mails that builds trust and follows up to make sales
 2.  As soon as people subscribe to that newsletter, take them to a "one-time-only" page and give them a special offer to buy a product. If that product sells well, continue with the site. Or else drop the market and move on.
@@ -33,6 +33,6 @@ To read the complete nitty-gritty details of the mini website map, check out (ht
 -   Then take massive action.
 -   The mini website model still works and you can implement it for yourself too. (But I've improved upon it a lot these days.? And added blogging to the mix too. You'll read more about it a bit further on...)
 
-> [![2 Word Strategy Report](https://ankeshkothari.com/wp-content/uploads/2wordstrategy-cover.jpg "2wordstrategy-cover")](http://www.2wordstrategy.com) In 2007, I wrote a short little report that takes you one step ahead from simply creating mini websites and making money off them. That report deconstructs various successful models of making money and lays out their core in 2 short words.? That is report is for sale at a very modest price. If you're interested in becoming successful online, do check it out: [2WordStrategy.com](http://www.2wordstrategy.com "Internet Marketing Strategy Report")
+> [![2 Word Strategy Report](/images/2wordstrategy-cover.jpg "2wordstrategy-cover")](http://www.2wordstrategy.com) In 2007, I wrote a short little report that takes you one step ahead from simply creating mini websites and making money off them. That report deconstructs various successful models of making money and lays out their core in 2 short words.? That is report is for sale at a very modest price. If you're interested in becoming successful online, do check it out: [2WordStrategy.com](http://www.2wordstrategy.com "Internet Marketing Strategy Report")
 
 **Chapter 5:** (../how-luck-and-timing-can-make-or-break-you/)

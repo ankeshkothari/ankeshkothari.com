@@ -21,7 +21,7 @@ The correct way is asking one extra question:
 
 3.  How to fix it? Don't bore people. Occupy their attention. Place a mirror.
 
-![](https://ankeshkothari.com/wp-content/uploads/v-problem-matrix.gif)
+![](/images/v-problem-matrix.gif)
 
 One single "why" question gives you clarity. And helps you get to the root of the problem. It's not always so clean and easy though.
 

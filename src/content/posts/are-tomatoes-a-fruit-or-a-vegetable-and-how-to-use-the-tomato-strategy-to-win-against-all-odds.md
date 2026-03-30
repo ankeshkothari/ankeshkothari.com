@@ -3,7 +3,7 @@ title: "Are Tomatoes a Fruit or a Vegetable?  (And How to Use the Tomato Strateg
 date: "2013-04-12"
 ---
 
-![](https://ankeshkothari.com/wp-content/uploads/tomatoes.jpg) **Are tomatoes a fruit or a vegetable?**
+![](/images/tomatoes.jpg) **Are tomatoes a fruit or a vegetable?**
 
 ## 1\. Botanical Scientists Say:
 
@@ -35,11 +35,11 @@ If you consider tomatoes as fruits, it’s the highest produced fruit in the wor
 
 ## Abraham Lincoln Uses The Tomato Strategy to Become the President of USA
 
-![](https://ankeshkothari.com/wp-content/uploads/lincoln-memorial.jpg) Its 1860, and the Republican Party in USA has to select their presidential nominee. Every one thinks that William Seward – the senator from New York will win the nomination with ease. He is the most popular candidate by far. There are a few other candidates too. Notable amongst them are Edward Bates of Missouri and Salmon Chase of Ohio. One comparatively unknown candidate from Illinois joins the race too: Abraham Lincoln. Lincoln knew that he wouldn’t be able to become the favourite choice of the majority of the delegates. Many delegates are too loyal to Seward, Bates and Chase already. But Lincoln also knows that no candidate has majority backing either. So Lincoln decides on a strategy to become the number 2 choice of the highest number of delegates! His strategy is to give offence to no one. He wants to leave the delegates “in the mood to come to us, if they shall be compelled to give up their first love.” So while Seward, Bates and Chase concentrate only on their core constituency, Lincoln travels the country – willing to go anywhere to give speeches. For eg: When Seward is on a trip to Europe and Cooper Union in New York is looking for a Republican to give a speech to its audience, Salmon Chase declines the invitation thinking that he can make no in-roads in New York – Seward’s state. But Abraham Lincoln jumps on the chance in a jiffy!
+![](/images/lincoln-memorial.jpg) Its 1860, and the Republican Party in USA has to select their presidential nominee. Every one thinks that William Seward – the senator from New York will win the nomination with ease. He is the most popular candidate by far. There are a few other candidates too. Notable amongst them are Edward Bates of Missouri and Salmon Chase of Ohio. One comparatively unknown candidate from Illinois joins the race too: Abraham Lincoln. Lincoln knew that he wouldn’t be able to become the favourite choice of the majority of the delegates. Many delegates are too loyal to Seward, Bates and Chase already. But Lincoln also knows that no candidate has majority backing either. So Lincoln decides on a strategy to become the number 2 choice of the highest number of delegates! His strategy is to give offence to no one. He wants to leave the delegates “in the mood to come to us, if they shall be compelled to give up their first love.” So while Seward, Bates and Chase concentrate only on their core constituency, Lincoln travels the country – willing to go anywhere to give speeches. For eg: When Seward is on a trip to Europe and Cooper Union in New York is looking for a Republican to give a speech to its audience, Salmon Chase declines the invitation thinking that he can make no in-roads in New York – Seward’s state. But Abraham Lincoln jumps on the chance in a jiffy!
 
 ### The Fight For the Nomination
 
-![](https://ankeshkothari.com/wp-content/uploads/lincoln.jpg) May 18, 1960 comes. It’s the day when Republican delegates nominate their presidential candidate. A candidate requires at least 233 votes to win. In the first round, the results are:
+![](/images/lincoln.jpg) May 18, 1960 comes. It’s the day when Republican delegates nominate their presidential candidate. A candidate requires at least 233 votes to win. In the first round, the results are:
 
 -   Seward: 173½ votes
 -   Lincoln: 102 votes
@@ -58,4 +58,4 @@ Seward has the lead with a very good margin. But things change quickly during th
 
 -   To become the best number 2 out there, you have to implement the strategy of increasing your reach without offending anyone.
 
-\### In USA, the Saturday after Thanksgiving is the day when most number of tomatoes are sold in the year. How come? Because everyone makes sandwiches out of Thanksgiving leftovers. And they need tomatoes for these sandwiches! ### ![](https://ankeshkothari.com/wp-content/uploads/avis_3.gif) Avis became the no.1 car rental company because of their “We’re No.2 so we try harder” campaign. And they kept on using the same campaign for a long time even after they had become no.1!
+\### In USA, the Saturday after Thanksgiving is the day when most number of tomatoes are sold in the year. How come? Because everyone makes sandwiches out of Thanksgiving leftovers. And they need tomatoes for these sandwiches! ### ![](/images/avis_3.gif) Avis became the no.1 car rental company because of their “We’re No.2 so we try harder” campaign. And they kept on using the same campaign for a long time even after they had become no.1!
